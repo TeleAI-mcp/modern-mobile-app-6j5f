@@ -1,2 +1,3 @@
-# modern-mobile-app-6j5f
-A mobile application for modern development workflows
+# Modern Mobile App 6J5F
+
+A mobile application for modern development workflows.
